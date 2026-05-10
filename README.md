@@ -10,18 +10,6 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harshuuu21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshuuu21&theme=tokyonight&hide_border=false" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshuuu21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
